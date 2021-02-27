@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/76e0e984-03cb-4897-b032-74cb998791c0/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/classpetteam",
+    "appService.deploySubpath": "."
+}
